@@ -19,5 +19,7 @@ User Stories:
 * Como usuario estudiante requiro una página donde pueda subir las evaluaciones completadas del curso.
 * Como usuario profesor reuqiero una página en la que pueda descargar los envios de los estudiantes.
 * Como usuario profesor requiero una página que me permita poder asignar notas a las evaluaciones.
+* Como usuario deseo una página donde pueda subir archivos de manera privada
+* Como usuario deseo que la página tenga versión de escritorio y de movil
 * 
 
