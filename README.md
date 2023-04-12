@@ -27,7 +27,9 @@ User Stories:
 
 ## Requerimientos no funcionales:
 
-
 * Como administrador requiero que el rendimiento del programa sea alto
-* 
-
+* Como administrador requiero que el programa sea facil de actualizar y mantener
+* Como administrador requiero que el programa sea resiliente a fallos
+* Como administrador requiero que el programa este protegido contra acceso no autorizado
+* Como administrador requiero que el programa sea fiable
+* Como administrador requiero que el programa tenga una documentación clara
