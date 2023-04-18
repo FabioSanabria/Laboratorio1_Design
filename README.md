@@ -3,7 +3,8 @@ Laboratorio de arquitecturas
 
 User Stories:
 
-* Como usuario deseo tener un botón para cambiar el lenguaje de la página. 
+* Como usuario deseo tener una opción para cambiar el lenguaje de la página.
+ 
 * Como usuario deseo tener una página donde se muestre un calendario con las actividades de los cursos.
 * Como usuario profesor requiero poder crear página para mi curso.
 * Como usuario profesor requiero una página donde pueda inscribir a mis estudiantes en mi curso.

@@ -2,7 +2,7 @@
 
 ## User Stories:
 
-* Como usuario deseo tener un botón para cambiar el lenguaje de la página.
+* Como usuario deseo tener una opción para cambiar el lenguaje de la página.
 
 **Criterio de aceptación**: Es capaz de cambiar al idioma de preferencia del usuario
  
